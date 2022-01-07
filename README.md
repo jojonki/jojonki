@@ -1,4 +1,4 @@
-### Hi there 👋
+### Junki Ohmura (jojonki)
 
 <!--
 **jojonki/jojonki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- [Linkedin](https://www.linkedin.com/in/junki/)
+- [Twitter @jojonki](twitter.com/jojonki)
+- [Blog](https://www.jonki.net/)
+- Please feel free to contact me.  junki dot ohmura at gmail.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jojonki)](https://github.com/ryo-ma/github-profile-trophy)
