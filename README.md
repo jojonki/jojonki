@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - [Linkedin](https://www.linkedin.com/in/junki/)
-- [Twitter @jojonki](twitter.com/jojonki)
+- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/jojonki.svg?style=social&label=Follow%20%40jojonki)](https://twitter.com/jojonki)
 - [Blog](https://www.jonki.net/)
 - Please feel free to contact me.  junki dot ohmura at gmail.
 
