@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - [Linkedin](https://www.linkedin.com/in/junki/)
+- [Google Scholar](https://scholar.google.com/citations?user=D0WNi84AAAAJ&hl=en)
 - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/jojonki.svg?style=social&label=Follow%20%40jojonki)](https://twitter.com/jojonki)
 - [Blog](https://www.jonki.net/)
 - Please feel free to contact me.  junki dot ohmura at gmail.
