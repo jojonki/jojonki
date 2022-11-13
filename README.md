@@ -28,4 +28,4 @@ Here are some ideas to get you started:
   - LTI, Carnegie Mellon University: Research about dialog systems supervised by Maxine Eskenazi.
   - Sony: NLP Researcher (current).
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jojonki)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jojonki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
